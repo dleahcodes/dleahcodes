@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dleahcodes
 - 👀 I’m interested in learning how to build inetersting and interactive websites.
 - 🌱 I’m currently learning html, css and jscript.
-- 💞️ I’m looking to collaborate on building web projecsts.
-- 📫 How to reach me?
+- 💞️ I’m looking to collaborate on building web projects.
+- 📫 How to reach me? mail to leahfemi@gmail
 
 <!---
 dleahcodes/dleahcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
