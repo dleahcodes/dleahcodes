@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I'm transitioning into a frontend web developer and a daughter and sister.😊
+I'm transitioning into a frontend web developer.😊
 
 # Hi, I'm Leah! 👋
 
