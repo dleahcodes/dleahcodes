@@ -1,8 +1,8 @@
+# Hi, I'm Leah! 👋
+
 ## 🚀 About Me
 
 I'm transitioning into a frontend web developer.😊
-
-# Hi, I'm Leah! 👋
 
 ## 🔗 Links
 
@@ -11,7 +11,7 @@ I'm transitioning into a frontend web developer.😊
 
 ## Other Common Github Profile Sections
 
-👩‍💻 I'm currently working on an exercise from tech school - Assignment- Create a repo with three branches and pushing some past assignments into it.
+👩‍💻 I'm currently working on 🤐 
 
 🧠 I'm currently learning HTML, CSS and Jscript.
 
@@ -21,11 +21,11 @@ I'm transitioning into a frontend web developer.😊
 
 💬 Ask me about...HTML and CSS.
 
-📫 How to reach me...📧 to leahfemi@gmail.com
+📫 How to reach me...📧 to leahfemi@gmail.com or via my social media links above.
 
 😄 Pronouns...
 
-⚡️ Fun fact...I'm a foodie through and through, so watching food videos on Youtube is a favourite pastime.
+⚡️ Fun fact...I'm a foodie through and through, so watching food videos on Youtube is a favourite pastime. </br> 
 I also love animals! 🐕‍🦺🐕‍😻🐕‍
 
 ## 🛠 Skills
