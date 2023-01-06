@@ -20,7 +20,7 @@ I'm currently transitioning into a frontend web developer.😊
 
 https://www.linkedin.com/in/leaholorunfemi2
 
-📫 leahfemi@gmail.com
+
 
 
 
